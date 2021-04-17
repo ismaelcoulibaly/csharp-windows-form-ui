@@ -1,0 +1,11 @@
+C:\Users\ila MBP win\Documents\intra_inf1034\bin\Debug\intra_inf1034.exe.config
+C:\Users\ila MBP win\Documents\intra_inf1034\bin\Debug\intra_inf1034.exe
+C:\Users\ila MBP win\Documents\intra_inf1034\bin\Debug\intra_inf1034.pdb
+C:\Users\ila MBP win\Documents\intra_inf1034\obj\Debug\intra_inf1034.csprojAssemblyReference.cache
+C:\Users\ila MBP win\Documents\intra_inf1034\obj\Debug\intra_inf1034.Properties.Resources.resources
+C:\Users\ila MBP win\Documents\intra_inf1034\obj\Debug\intra_inf1034.csproj.GenerateResource.cache
+C:\Users\ila MBP win\Documents\intra_inf1034\obj\Debug\intra_inf1034.csproj.CoreCompileInputs.cache
+C:\Users\ila MBP win\Documents\intra_inf1034\obj\Debug\intra_inf1034.exe
+C:\Users\ila MBP win\Documents\intra_inf1034\obj\Debug\intra_inf1034.pdb
+C:\Users\ila MBP win\Documents\intra_inf1034\obj\Debug\intra_inf1034.Rapport.resources
+C:\Users\ila MBP win\Documents\intra_inf1034\obj\Debug\intra_inf1034.bottomLabel.resources
